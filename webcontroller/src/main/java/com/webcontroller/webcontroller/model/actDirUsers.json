@@ -1,0 +1,45 @@
+[
+    {
+        "username": "user1",
+        "volume" : "volume1",
+        "rights": "rwf",
+        "firstname": "first1",
+        "lastname": "last1",
+        "gmail": "gmail1@gmail.com"
+    },
+    {
+        "username": "user2",
+        "volume" : "volume1",
+        "rights": "rwf",
+        "firstname": "first2",
+        "lastname": "last2",
+        "gmail": "gmail2@gmail.com"
+    },
+    {
+        "username": "user3",
+        "volume" : "volume1",
+        "rights": "wf",
+        "firstname": "first3",
+        "lastname": "last3",
+        "gmail": "gmail3@gmail.com"
+    },
+    {
+        "username": "user4",
+        "volume" : "volume1",
+        "rights": "rwf",
+        "firstname": "first4",
+        "lastname": "last4",
+        "gmail": "gmail4@gmail.com"
+    },
+    {
+        "username": "user5",
+        "volume" : "volume1",
+        "rights": "rwf",
+        "firstname": "first5",
+        "lastname": "last5",
+        "gmail": "gmail5@gmail.com"
+    }
+
+
+
+]
